@@ -2,6 +2,11 @@
 
 ### Application Screenshots:
 
+![Login Page](/output-screenshots/login.jpg?raw=true "Login Page")
+
+![Hospital Dashboard](/output-screenshots/hosp_dash.jpg?raw=true "Hospital Dashboard")
+
+![Querying Donors](/output-screenshots/query.jpg?raw=true "Querying Donors")
 
 ### Setting up:
 
