@@ -1,4 +1,4 @@
-# Blood-Bank-Management
+# Blood-Bank-Management - Tkinter
 
 ### Application Screenshots:
 
@@ -55,7 +55,7 @@ Database:
 Running the Script:   
 
 * Clone the repository using git clone https://github.com/SyedAnas26/Blood-Bank-Management.git
-* Make sure you have installed python3
+* Make sure you have installed python3, tkinter, mysql connector
 * Run the main.py file using python ``` python main.py ```
 
 
