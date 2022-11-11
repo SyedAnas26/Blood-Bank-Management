@@ -1,4 +1,4 @@
-# Blood-Bank-Management - Tkinter
+# Blood-Bank-Management ( Tkinter )
 
 ### Application Screenshots:
 
